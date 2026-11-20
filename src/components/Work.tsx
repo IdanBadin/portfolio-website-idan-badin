@@ -28,7 +28,7 @@ const projects = [
   {
     name: "Student Services AI Agent",
     category: "AI Agents / Built with Microsoft",
-    tools: "Microsoft Copilot Studio, LLMs, Python",
+    tools: "Microsoft Copilot Studio, LLMs, Prompt Engineering, Conversation Design",
     image: "/images/factory-tracker.webp",
   },
   {
@@ -40,7 +40,7 @@ const projects = [
   {
     name: "Video Localization AI Pipeline",
     category: "AI / Localization",
-    tools: "DeepL, GPT, Maestra, Python",
+    tools: "DeepL, GPT, Maestra, Quality Assurance",
     image: "/images/localization.webp",
   },
 ];
