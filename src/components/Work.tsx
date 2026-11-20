@@ -8,40 +8,40 @@ gsap.registerPlugin(useGSAP);
 
 const projects = [
   {
-    name: "AI Registration Agent",
-    category: "AI / Automation",
-    tools: "Microsoft Copilot Studio, LLMs, Python",
+    name: "Enterprise RAG Assistants",
+    category: "Generative AI / RAG",
+    tools: "RAG, Embeddings, Hybrid Search, Permission-Aware Retrieval, Python",
     image: "/images/ai-agent.webp",
   },
   {
-    name: "Procurement Analytics Dashboard",
-    category: "Data Analysis",
-    tools: "SAP, SQL, Python, Pandas",
+    name: "In-House AI Platform",
+    category: "AI Product / Saves ~$200K a Year",
+    tools: "LLMs, AI Agents, Python, TypeScript, Full-Stack Web App",
+    image: "/images/portfolio.webp",
+  },
+  {
+    name: "AI Deployment & LLMOps Platform",
+    category: "Platform Engineering",
+    tools: "Docker, CI/CD, SSO (OAuth 2.0), Automated Backups, LLM Cost Tracking",
+    image: "/images/saas-web.webp",
+  },
+  {
+    name: "Student Services AI Agent",
+    category: "AI Agents / Built with Microsoft",
+    tools: "Microsoft Copilot Studio, LLMs, Python",
+    image: "/images/factory-tracker.webp",
+  },
+  {
+    name: "Supplier Data Dashboard",
+    category: "AI / Data Analytics / Patent Filing",
+    tools: "Python, SQL, SAP, Pandas, ETL Automation",
     image: "/images/dashboard.webp",
   },
   {
     name: "Video Localization AI Pipeline",
-    category: "AI / NLP",
+    category: "AI / Localization",
     tools: "DeepL, GPT, Maestra, Python",
     image: "/images/localization.webp",
-  },
-  {
-    name: "SaaS Web Products",
-    category: "Web Development",
-    tools: "JavaScript, HTML, CSS, API Integration",
-    image: "/images/saas-web.webp",
-  },
-  {
-    name: "Factory Productivity Tracker",
-    category: "Software Development",
-    tools: "Python, Custom Tooling",
-    image: "/images/factory-tracker.webp",
-  },
-  {
-    name: "Portfolio Website",
-    category: "Web Development",
-    tools: "React, TypeScript, Three.js, GSAP",
-    image: "/images/portfolio.webp",
   },
 ];
 

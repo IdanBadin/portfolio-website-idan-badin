@@ -20,24 +20,28 @@ const Contact = () => {
                 +972-50-2266557
               </a>
             </p>
+            <h4>Location</h4>
+            <p>Ramat HaSharon, Israel</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/idanbadin"
+              href="https://github.com/IdanBadin"
               target="_blank"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
-              Github <MdArrowOutward />
+              GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://linkedin.com/in/idan-badin"
+              href="https://www.linkedin.com/in/idan-badin/"
               target="_blank"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
-              Linkedin <MdArrowOutward />
+              LinkedIn <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">

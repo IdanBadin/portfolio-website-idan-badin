@@ -88,21 +88,23 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
               <h3>AI</h3>
-              <h4>Artificial Intelligence</h4>
+              <h4>Generative AI &amp; Agents</h4>
               <p>
-                Building intelligent agents and automating complex workflows
-                using LLMs, Copilot Studio, and Python-based AI frameworks.
+                I build AI agents, agentic workflows and RAG systems that teams
+                use every day.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Skills &amp; tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Microsoft Copilot Studio</div>
                 <div className="what-tags">LLMs</div>
                 <div className="what-tags">AI Agents</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">Automation</div>
-                <div className="what-tags">Workflow Design</div>
-                <div className="what-tags">GPT</div>
-                <div className="what-tags">API Integration</div>
+                <div className="what-tags">RAG</div>
+                <div className="what-tags">MCP</div>
+                <div className="what-tags">LangChain</div>
+                <div className="what-tags">Prompt &amp; Context Engineering</div>
+                <div className="what-tags">Function Calling</div>
+                <div className="what-tags">Vector &amp; Hybrid Search</div>
+                <div className="what-tags">LangGraph</div>
+                <div className="what-tags">Copilot Studio</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +128,29 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DATA</h3>
-              <h4>Data Analysis</h4>
+              <h3>BUILD</h3>
+              <h4>Full-Stack &amp; Production</h4>
               <p>
-                Transforming raw data into actionable insights through dashboards,
-                ETL pipelines, and machine learning techniques.
+                I take each product from idea to production, covering the API,
+                UI, CI/CD, SSO and LLMOps.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Skills &amp; tools</h5>
               <div className="what-content-flex">
+                <div className="what-tags">Python</div>
+                <div className="what-tags">TypeScript</div>
                 <div className="what-tags">SQL</div>
-                <div className="what-tags">Python (Pandas, NumPy)</div>
-                <div className="what-tags">Machine Learning</div>
-                <div className="what-tags">Tableau</div>
+                <div className="what-tags">FastAPI</div>
+                <div className="what-tags">Node.js</div>
+                <div className="what-tags">React</div>
+                <div className="what-tags">Next.js</div>
+                <div className="what-tags">PostgreSQL</div>
+                <div className="what-tags">Docker</div>
+                <div className="what-tags">CI/CD</div>
+                <div className="what-tags">Azure</div>
+                <div className="what-tags">SSO</div>
+                <div className="what-tags">LLMOps</div>
+                <div className="what-tags">Claude Code</div>
                 <div className="what-tags">Power BI</div>
-                <div className="what-tags">Excel</div>
-                <div className="what-tags">ETL</div>
-                <div className="what-tags">Dashboards</div>
               </div>
               <div className="what-arrow"></div>
             </div>

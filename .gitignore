@@ -26,3 +26,9 @@ dist-ssr
 
 backup/
 .env
+# Local assistant notes (never published)
+CLAUDE.md
+.claude/
+.claudeignore*
+tasks/
+.playwright-mcp/
